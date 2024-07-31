@@ -1,0 +1,5 @@
+.Fooditems{
+    display: flex;
+    overflow: auto;
+    scrollbar-width: none;
+}
